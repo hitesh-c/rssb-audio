@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rssb-audio/static/css/main.9a279697.css",
+    "main.js": "/rssb-audio/static/js/main.866c2de8.js",
+    "static/js/787.d9671f37.chunk.js": "/rssb-audio/static/js/787.d9671f37.chunk.js",
+    "index.html": "/rssb-audio/index.html",
+    "main.9a279697.css.map": "/rssb-audio/static/css/main.9a279697.css.map",
+    "main.866c2de8.js.map": "/rssb-audio/static/js/main.866c2de8.js.map",
+    "787.d9671f37.chunk.js.map": "/rssb-audio/static/js/787.d9671f37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a279697.css",
+    "static/js/main.866c2de8.js"
+  ]
+}
