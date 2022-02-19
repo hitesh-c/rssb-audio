@@ -12,7 +12,7 @@
         "src": "/maskable_icon_x192.png",
         "sizes": "192x192",
         "type": "image/png",
-        "purpose":"any maskable"
+        "purpose":"maskable"
     },
       {
           "src": "/icon-256x256.png",
@@ -31,7 +31,7 @@
       }
   ],
 
-  "start_url": "/?source=pwa",
+  "start_url": "https://github.com/hitesh-c/rssb-audio",
   "scope":"/",
   "display": "standalone",
   "theme_color": "#560103",
