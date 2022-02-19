@@ -1,25 +1,51 @@
 {
   "short_name": "RSSB Audio",
   "name": "RSSB Audio",
+  "description": "This is an unofficial App. Not linked to RSSB. This App does not collect any type of information from user. It's for personal use and free to use",
   "icons": [
-    {
-      "src": "/logo.png",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    },
-    {
-      "src": "./logo.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "./logo.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    }
+      {
+          "src": "/icon-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+      },
+      {
+          "src": "/icon-256x256.png",
+          "sizes": "256x256",
+          "type": "image/png"
+      },
+      {
+          "src": "/icon-384x384.png",
+          "sizes": "384x384",
+          "type": "image/png"
+      },
+      {
+          "src": "/icon-512x512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+      }
   ],
-  "start_url": ".",
+
+  "start_url": "/?source=pwa",
+  "scope":"/",
   "display": "standalone",
   "theme_color": "#560103",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "screenshots": [
+    {
+      "src": "/images/screenshot1.png",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "/images/screenshot2.jpg",
+      "type": "image/jpg",
+      "sizes": "540x720"
+    },
+    {
+      "src": "/images/screenshot3.jpg",
+      "type": "image/jpg",
+      "sizes": "540x720"
+    }
+  ]
+
 }
