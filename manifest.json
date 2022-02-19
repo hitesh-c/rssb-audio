@@ -31,7 +31,7 @@
       }
   ],
 
-  "start_url": "https://github.com/hitesh-c/rssb-audio",
+  "start_url": ".",
   "scope":"/",
   "display": "standalone",
   "theme_color": "#560103",
