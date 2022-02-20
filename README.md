@@ -50,3 +50,7 @@
   </p>
 </div>
 
+#Screenshot
+
+[![Product Name Screen Shot]](https://github.com/hitesh-c/rssb-audio/blob/gh-pages/images/screenshot1.jpg?raw=true)
+<p align="right">(<a href="#top">back to top</a>)</p>
