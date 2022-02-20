@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/rssb-audio/static/css/main.1aab8c45.css",
-    "main.js": "/rssb-audio/static/js/main.e465ce02.js",
+    "main.js": "/rssb-audio/static/js/main.5baa4387.js",
     "static/js/787.d9671f37.chunk.js": "/rssb-audio/static/js/787.d9671f37.chunk.js",
+    "service-worker.js": "/rssb-audio/service-worker.js",
     "index.html": "/rssb-audio/index.html",
     "main.1aab8c45.css.map": "/rssb-audio/static/css/main.1aab8c45.css.map",
-    "main.e465ce02.js.map": "/rssb-audio/static/js/main.e465ce02.js.map",
+    "main.5baa4387.js.map": "/rssb-audio/static/js/main.5baa4387.js.map",
     "787.d9671f37.chunk.js.map": "/rssb-audio/static/js/787.d9671f37.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1aab8c45.css",
-    "static/js/main.e465ce02.js"
+    "static/js/main.5baa4387.js"
   ]
 }
