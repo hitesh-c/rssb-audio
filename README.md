@@ -36,7 +36,8 @@
   <h3 align="center">RSSB Audio</h3>
 
   <p align="center">
-    This is an unofficial APP, Made for personal use. Official Rssb website https://rssb.org
+    This is an unofficial APP, Made for personal use. Official Rssb website https://rssb.org. The App Display Radha Soami Satsang Beas Shabads available on Youtube
+    in audio format. This App doesn't collect any user information. It's free to use. Code will be Open Sourced Soon. 
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
