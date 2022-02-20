@@ -82,7 +82,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][https://github.com/hitesh-c/rssb-audio/blob/gh-pages/images/screenshot1.jpg?raw=true]
+[![Product Name Screen Shot](https://github.com/hitesh-c/rssb-audio/blob/gh-pages/images/screenshot1.jpg?raw=true)
 [![Product Name Screen Shot][product-screenshot]](https://github.com/hitesh-c/rssb-audio/blob/gh-pages/images/screenshot2.jpg?raw=true)
 [![Product Name Screen Shot][product-screenshot]](https://github.com/hitesh-c/rssb-audio/blob/gh-pages/images/screenshot3.jpg?raw=true)
 
