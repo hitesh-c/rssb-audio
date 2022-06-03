@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/rssb-audio/static/css/main.1aab8c45.css",
-    "main.js": "/rssb-audio/static/js/main.dcf4dd92.js",
+    "main.css": "/rssb-audio/static/css/main.c936e3e7.css",
+    "main.js": "/rssb-audio/static/js/main.3e37327e.js",
     "static/js/787.d9671f37.chunk.js": "/rssb-audio/static/js/787.d9671f37.chunk.js",
     "service-worker.js": "/rssb-audio/service-worker.js",
     "index.html": "/rssb-audio/index.html",
-    "main.1aab8c45.css.map": "/rssb-audio/static/css/main.1aab8c45.css.map",
-    "main.dcf4dd92.js.map": "/rssb-audio/static/js/main.dcf4dd92.js.map",
+    "main.c936e3e7.css.map": "/rssb-audio/static/css/main.c936e3e7.css.map",
+    "main.3e37327e.js.map": "/rssb-audio/static/js/main.3e37327e.js.map",
     "787.d9671f37.chunk.js.map": "/rssb-audio/static/js/787.d9671f37.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1aab8c45.css",
-    "static/js/main.dcf4dd92.js"
+    "static/css/main.c936e3e7.css",
+    "static/js/main.3e37327e.js"
   ]
 }
