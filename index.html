@@ -1,1 +1,35 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"/><link rel="icon" href="/logo.png"/><meta name="viewport" content="width=device-width" initial-scale="1" maximum-scale="1.0" user-scalable="0"/><meta name="apple-mobile-web-app-capable" content="yes"/><meta name="mobile-web-app-capable" content="yes"/><meta name="RSSB Audio" content="RSSB Audio"/><meta name="theme-color" content="#560103"><link rel="apple-touch-icon" href="/icon-192x192"/><link rel="manifest" href="/manifest.json"/><title>RSSB Audio</title><script defer="defer" src="/static/js/main.bb95908f.js"></script><link href="/static/css/main.143624c1.css" rel="stylesheet"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div><script type="text/javascript"></script></body></html>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="manifest" href="./manifest.json" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RSSB Audio</title>
+    <meta name="description" content="This is unofficial application for RSSB Audio Books. We do not collect any data."/>
+    <meta name="theme-color" content="#ff0000">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&amp;display=swap" rel="stylesheet">
+    <script type="module" crossorigin src="/assets/index-a76d8e98.js"></script>
+    <link rel="stylesheet" href="/assets/index-4fca5d45.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/service-worker.js')
+            .then(registration => {
+              console.log('Service Worker registered with scope:', registration.scope);
+            })
+            .catch(error => {
+              console.error('Service Worker registration failed:', error);
+            });
+        });
+      }
+    </script>
+    
+  </body>
+</html>
